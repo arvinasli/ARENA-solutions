@@ -9,7 +9,7 @@ This repository contains my personal implementations, exercises, and code soluti
 ### [Chapter 0: Fundamentals](0_fundamentals/)
 Core PyTorch mechanics, deep learning architectures, and foundational optimization techniques.
 - [x] `0.0` Prerequisites
-- [ ] `0.1` Ray Tracing
+- [x] `0.1` Ray Tracing
 - [ ] `0.2` CNNs & ResNets
 - [ ] `0.3` Optimization
 - [ ] `0.4` Backpropagation
