@@ -6,7 +6,7 @@ This repository contains my personal implementations, exercises, and code soluti
 
 ## 🗺️ Curriculum & Progress
 
-### [Chapter 0: Fundamentals](0_fundamentals/)
+### [Chapter 0: Fundamentals](/chapter0_fundamentals)
 Core PyTorch mechanics, deep learning architectures, and foundational optimization techniques.
 - [x] `0.0` Prerequisites
 - [x] `0.1` Ray Tracing
