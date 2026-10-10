@@ -1,0 +1,1 @@
+![MLP_training_on_MNIST_from_scratch](MLP_training_on_MNIST_from_scratch.png)
