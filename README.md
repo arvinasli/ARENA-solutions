@@ -10,9 +10,9 @@ This repository contains my personal implementations, exercises, and code soluti
 Core PyTorch mechanics, deep learning architectures, and foundational optimization techniques.
 - [x] `0.0` Prerequisites
 - [x] `0.1` Ray Tracing
-- [ ] `0.2` CNNs & ResNets
-- [ ] `0.3` Optimization
-- [ ] `0.4` Backpropagation
+- [x] `0.2` CNNs & ResNets
+- [x] `0.3` Optimization
+- [x] `0.4` Backpropagation
 - [ ] `0.5` VAEs & GANs
 
 ### [Chapter 1: Transformer Interpretability](1_transformer_interpretability/)
