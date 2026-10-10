@@ -25,9 +25,9 @@ The material in this chapter covers the core grounding in deep learning fundamen
 | :--- | :--- | :--- | :---: |
 | **0.0** | **Prerequisites** | PyTorch Tensors, Indexing, LogSumExp, Softmax, `einops.einsum` | [x] |
 | **0.1** | **Ray Tracing** |  | [x] |
-| **0.2** | **CNNs & ResNets** | Custom 1D/2D convolutions, ResNet architecture, transfer learning | [ ] |
-| **0.3** | **Optimization & Training** | SGD, Adam/AdamW implementation, learning rate schedulers, WandB | [ ] |
-| **0.4** | **Backprop & AutoGrad** | Computational graphs, topological sort, custom autograd engine | [ ] |
+| **0.2** | **CNNs & ResNets** | Custom 1D/2D convolutions, ResNet architecture, transfer learning | [x] |
+| **0.3** | **Optimization & Training** | SGD, Adam/AdamW implementation, learning rate schedulers, WandB | [x] |
+| **0.4** | **Backprop & AutoGrad** | Computational graphs, topological sort, custom autograd engine | [x] |
 | **0.5** | **Generative Models** | VAEs, GANs, latent space interpolation, image generation | [ ] |
 
 ---
